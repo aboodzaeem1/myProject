@@ -191,7 +191,7 @@
             <img src='https://i.pinimg.com/736x/ef/da/eb/efdaeb01c31ce7db01126a4d653443d9.jpg' alt='لوجو الموقع' width="200">
             <h3>لوحة المدير</h3>
             
-            <label>رقم الطالب:</label><br>
+            <label>رقم هوية الطالب:</label><br>
             <input type='number' min='1' name='id'><br>
 
             <label>اسم الطالب:</label><br>
@@ -217,7 +217,7 @@
             
             <table id='tel'>
                 <tr>
-                    <th>الرقم التسلسلي</th>
+                    <th>الرقم الهوية  </th>
                     <th>اسم الطالب</th>
                     <th>عنوان الطالب</th>  
                     <th>سنة الميلاد</th> 
