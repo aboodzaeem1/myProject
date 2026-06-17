@@ -98,7 +98,7 @@
     <div class="form-card">
         <h2>تسجيل بيانات طالب</h2>
         <form method="POST">
-            <input type="number" name="id" placeholder="رقم الطالب التسلسلي (ID)" required>
+            <input type="number" name="id" placeholder="رقم هوية الطالب " required>
             <input type="text" name="name" placeholder="اسم الطالب" required>
             <input type="text" name="address" placeholder="العنوان" required>
             <label>تاريخ الميلاد:</label>
